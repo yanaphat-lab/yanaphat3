@@ -110,7 +110,7 @@
 
 <script>
     // ⚠️ นำ Web App URL ที่ได้จาก Google Apps Script มาวางแทนที่บรรทัดนี้
-    const GOOGLE_SHEET_URL = "YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL";
+    const GOOGLE_SHEET_URL = "https://script.google.com/macros/s/AKfycbwbVE5LA2Trbx6A89INDLHCcjmG4v_FyK-BEjb1OLif011zfgK0aOuUNYXQqQpi4dms/exec";
 
     // ดึงข้อมูลเมื่อโหลดหน้าเว็บ
     window.onload = function() {
